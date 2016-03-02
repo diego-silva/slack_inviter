@@ -1,5 +1,10 @@
 # SlackInviter
 
+[![Build Status](https://travis-ci.org/diego-silva/slack_inviter.svg?branch=master)](https://travis-ci.org/diego-silva/slack_inviter)
+[![Code Climate](https://codeclimate.com/github/diego-silva/slack_inviter/badges/gpa.svg)](https://codeclimate.com/github/diego-silva/slack_inviter)
+[![Coverage Status](https://coveralls.io/repos/github/diego-silva/slack_inviter/badge.svg?branch=master)](https://coveralls.io/github/diego-silva/slack_inviter?branch=master)
+
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/slack_inviter`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
@@ -38,4 +43,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
