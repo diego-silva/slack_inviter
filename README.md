@@ -1,5 +1,7 @@
 # SlackInviter
 
+[![Gem Version](https://badge.fury.io/rb/slack_inviter.svg)](https://badge.fury.io/rb/slack_inviter)
+
 [![Build Status](https://travis-ci.org/diego-silva/slack_inviter.svg?branch=master)](https://travis-ci.org/diego-silva/slack_inviter)
 [![Code Climate](https://codeclimate.com/github/diego-silva/slack_inviter/badges/gpa.svg)](https://codeclimate.com/github/diego-silva/slack_inviter)
 [![Coverage Status](https://coveralls.io/repos/github/diego-silva/slack_inviter/badge.svg?branch=master)](https://coveralls.io/github/diego-silva/slack_inviter?branch=master)
